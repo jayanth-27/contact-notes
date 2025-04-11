@@ -28,7 +28,7 @@ A microservice for managing contact notes within a CRM system.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-org/contact-notes-service.git
+git clone https://github.com/jayanth-27/contact-notes.git
 cd contact-notes-service
 ```
 
